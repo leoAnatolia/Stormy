@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_toast_msg">Hi Android!</string>
+    <string name="new_toast_msg">Hey!What\'s up?</string>
+</resources>
